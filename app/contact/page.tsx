@@ -96,17 +96,15 @@ const ContactPage = () => {
         <div className="max-w-4xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-8 text-center">
           <div>
             <h3 className="text-xl font-bold mb-2">Email</h3>
-            <p className="text-gray-600">support@sleeptracker.com</p>
+            <p className="text-gray-600">kerolos.adel.eleshaa@gmail.com</p>
           </div>
           <div>
             <h3 className="text-xl font-bold mb-2">Phone</h3>
-            <p className="text-gray-600">+1 (123) 456-7890</p>
+            <p className="text-gray-600">+20 1274363439</p>
           </div>
           <div>
             <h3 className="text-xl font-bold mb-2">Address</h3>
-            <p className="text-gray-600">
-              123 SleepTracker St, Dream City, USA
-            </p>
+            <p className="text-gray-600">Cairo, Egypt</p>
           </div>
         </div>
       </section>
