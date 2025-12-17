@@ -27,7 +27,7 @@ const ContactPage = () => {
             const message = (
               document.getElementById("message") as HTMLTextAreaElement
             )?.value;
-            const mailtoLink = `mailto:support@sleeptracker.com?subject=Message from ${name}&body=Email: ${email}%0D%0A%0D%0A${message}`;
+            const mailtoLink = `mailto:kerolos.adel.eleshaa@gmail.com?subject=Message from ${name}&body=Email: ${email}%0D%0A%0D%0A${message}`;
             window.location.href = mailtoLink;
           }}
         >
