@@ -15,7 +15,7 @@ export default async function Navbar() {
           <div className="flex items-center">
             <Link href="/" className="shrink-0">
               <span className="text-md sm:text-2xl font-bold bg-linear-to-r from-purple-600 via-pink-500 to-red-500 bg-clip-text text-transparent">
-                SleepTracker
+                KeroSleepTracker
               </span>
             </Link>
           </div>

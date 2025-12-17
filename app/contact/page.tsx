@@ -6,7 +6,7 @@ const ContactPage = () => {
       {/* Hero Section */}
       <section className="flex flex-col items-center justify-center text-center py-16 px-8 bg-gray-100">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-linear-to-r from-purple-500 via-pink-500 to-red-500 bg-clip-text text-transparent">
-          Contact SleepTracker
+          Contact KeroSleepTracker
         </h1>
         <p className="text-lg md:text-xl bg-linear-to-r from-purple-500 via-pink-500 to-red-500 bg-clip-text text-transparent">
           Have questions or need help? Get in touch with us!
