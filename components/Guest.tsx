@@ -24,7 +24,7 @@ const Guest = () => {
           <Image
             src={"/sleep-tracker.png"}
             alt="SleepTracker Illustration"
-            className="w-full md:max-w-md rounded-tl-3xl rounded-br-3xl shadow-lg"
+            className="w-full md:max-w-md rounded-3xl shadow-lg"
             width={400}
             height={400}
           />
